@@ -1,0 +1,11 @@
+Johdatus internet teknologioiden kurssin seminaari, alle 5min video.  
+
+Johdatus Internet Teknologioihin, TTZC0100  
+
+Opiskelija tuntee Internetissä käytettyjä protokollia ja periaatteita. Opiskelija tunnistaa Internet protokollan versio 4 ja versio 6 osoitteita ja niihin liitettyjä nimipalveluhierarkioita.  
+Opiskelija tietää alkeet Internetin liikennöinnissä käytetyistä komponenteista kuten hypertekstin siirtoprotokolla, yhteydenhallintaprotokolla, internet protokolla ja ethernet –kytkentä.  
+Opiskelija tunnistaa uhat ja riskit, jotka liittyvät tiedonsiirtoon julkisessa verkossa ja ymmärtää palvelunestohyökkäysten perusperiaatteita. Opiskelija ymmärtää tietoverkon toimivuuden suhteen yrityksen liiketoimintaan ja tämän avulla sisäistää liiketoiminnan haavoittuvuuden sähköisten järjestelmien kautta tuleviin hyökkäyksiin. Opiskelija tuntee yksinkertaiset puolustusmekanismit.  
+
+Opintojaksolla tutustutaan Internetin yleisten tietoverkkoprotokollien alkeisiin. Opintojaksolla harjoitellaan ja tutkitaan Internetin tietoverkkoprotokollien käyttöä yhteydenotossa julkisiin palveluihin. Opintojaksolla käydään lävitse haavoittuvuuksia protokollissa ja niiden implementaatioissa. Yleisiä hyökkäyksiä esitetään käytännön harjoituksin ja esitetään perinteisiä puolustusmekanismeja.  
+
+https://youtu.be/DHV7mlFZMec
