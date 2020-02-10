@@ -1,0 +1,15 @@
+-Alku
+-Anna luvut LX, LY, LZ
+	-Jos luku LX on pienempi kuin LY
+		-Jos luku LX on pienempi kuin LZ
+		-Muuten tulosta luvut järjestyksessä LZ, LX, LY
+			-Jos LY on pienempi kuin LZ
+				-Tulosta luvut järjestyksessä LX, LY, LZ
+				-Muuten tulosta luvut järjestyksessä LX, LZ, LY
+	-Jos luku LX ei ole pienempi kuin LY
+		-Jos luku LX on pienempi kuin LZ
+		-Tulosta luvut järjestyksessä LY, LX, LZ
+			-Muuten onko luku LY pienempi kuin LZ
+				-Tulosta luvut järjestyksessä LY, LZ, LX
+				-Muuten tulosta luvut järjestyksessä LZ, LY, LX
+-Loppu
